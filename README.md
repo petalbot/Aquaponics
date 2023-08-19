@@ -1,6 +1,9 @@
 # Aquaponics
 Feeding Fish
-DEMO: https://www.youtube.com/watch?v=2FeSwOREC7Q
+DEMO:
+
+https://github.com/petalbot/Aquaponics/assets/76890077/74299fa6-4092-4779-8ebb-312e89ba5813
+
 Aquaponics Game: Java game where user aims to feed fish of three different colors without exceeding virtual ammonia limit
 This game generates fish of three different color schemes and random swimming speeds. 
 Each comes with an attached bar indiciating how much more they must be fed to win the game. 
